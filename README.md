@@ -15,7 +15,7 @@ $ git clone https://github.com/gerardorf/tmux ~/.tmux
 $ git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack
 ```
 
-3. Source config and theme in your ~/.tmux
+3. Source config and theme in your ~/.tmux.conf
 ```
 source-file ~/.tmux/tmux.conf
 source-file ~/.tmux-themepack/powerline/block/cyan.tmuxtheme
