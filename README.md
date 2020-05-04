@@ -2,6 +2,7 @@
 Use tmux the way I like it!
 
 ## Prerequisites
+- [tmux] (https://github.com/tmux/tmux)
 - [powerline fonts](https://github.com/powerline/fonts)
 
 ## Installation
